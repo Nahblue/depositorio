@@ -16,9 +16,6 @@ Um repositório criado durando o bootcamp da <a href="https://web.dio.me/track/4
 
 <br>
 
-<p align="center">
-  <img alt="depositorio" src="" width="80%">
-</p>
 
 ## 👩‍💻 Tecnologias
 
