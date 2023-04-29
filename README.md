@@ -1,7 +1,7 @@
 <h1 align="center"> Depositório </h1>
 
 <p align="center">
-Um repositório criado durando o bootcamp da <a href="https://web.dio.me/track/4c4904b4-cfdc-42db-a74a-843a95eaa7bb">DIO Potência Tech Angular Developer - Powered by iFood</a><br/>
+Um repositório criado durando o curso de Introdução de GIT e GITHub no bootcamp da <a href="https://web.dio.me/track/4c4904b4-cfdc-42db-a74a-843a95eaa7bb">DIO Potência Tech Angular Developer - Powered by iFood</a><br/>
 </p>
 
 <p align="center">
