@@ -28,7 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto consiste em estudo e treino das propriedades do Markdown, bem como uma forma de armazenar algumas curiosidades e conhecimentos que foram adquiridos.
 
-- [Visite o projeto online](https://nahblue.github.io/nosso-trabalho/)
 
 ## :memo: Licença
 
