@@ -28,6 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto consiste em estudo e treino das propriedades do Markdown, bem como uma forma de armazenar algumas curiosidades e conhecimentos que foram adquiridos.
 
+- [Origem dos Idiomas](https://github.com/Nahblue/depositorio/blob/master/assuntos/origem-dos-idiomas.md)
 
 ## :memo: Licença
 
